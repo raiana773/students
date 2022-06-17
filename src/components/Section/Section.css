@@ -1,0 +1,17 @@
+.table {
+  width: 500px;
+  border: 2px solid pink;
+}
+
+.info {
+  background-color: pink;
+}
+
+.students-info {
+  display: flex;
+  justify-content: center;
+}
+
+td {
+  border: 1px solid white;
+}
